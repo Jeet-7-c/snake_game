@@ -1,7 +1,6 @@
 import pygame
 import random
 import os
-#Castellar
 
 pygame.mixer.init()
 
